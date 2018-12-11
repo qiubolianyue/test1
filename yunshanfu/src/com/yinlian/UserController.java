@@ -6,20 +6,4 @@ public class UserController {
 		
 	}
 	
-	public void b() {
-		
-	}
-	
-	public void c() {
-		
-	}
-	
-	public void f() {
-		
-	}
-	
-	public void e() {
-		
-	}
-
 }
