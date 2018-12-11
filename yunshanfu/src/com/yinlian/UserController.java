@@ -5,5 +5,13 @@ public class UserController {
 	public void a() {
 		
 	}
+	
+	public void b() {
+		
+	}
+	
+	public void c() {
+		
+	}
 
 }
