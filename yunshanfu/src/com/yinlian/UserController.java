@@ -6,4 +6,8 @@ public class UserController {
 		
 	}
 	
+	public void b() {
+		
+	}
+	
 }
